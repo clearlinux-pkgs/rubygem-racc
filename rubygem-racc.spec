@@ -4,7 +4,7 @@
 #
 Name     : rubygem-racc
 Version  : 1.4.12
-Release  : 6
+Release  : 7
 URL      : https://rubygems.org/downloads/racc-1.4.12.gem
 Source0  : https://rubygems.org/downloads/racc-1.4.12.gem
 Summary  : No detailed summary available
